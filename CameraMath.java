@@ -2,7 +2,7 @@
 
 import java.lang.Math;
 
-public class Main{
+public class CameraMath{
     public static void main(String[] args){
         CameraMath Camera = new CameraMath(8, 10); //the first number is the height of the camera in inches and the second number is the error bars for the calculations. Higher = more relaxed standards.
         int points2 [] = {/*put points here*/};
